@@ -1,0 +1,17 @@
+*{
+    
+}
+.header {
+    background-color: cadetblue;
+    display: inline-block;
+    width: 1350px;
+    height: 75px;
+}
+.body {
+    background-color: cadetblue;
+    display: block;
+    width: 1000px;
+}
+.footer {
+    background-color: cadetblue;
+}
